@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcaiovictormc%2Fhbmqtt.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcaiovictormc%2Fhbmqtt?ref=badge_shield)
+
 HBMQTT
 ======
 
@@ -61,3 +63,7 @@ Bug reports, patches and suggestions welcome! Just `open an issue`_ or join the 
 .. _Read the Docs: http://hbmqtt.readthedocs.org/
 .. _open an issue: https://github.com/beerfactory/hbmqtt/issues/new
 .. _gitter channel: https://gitter.im/beerfactory/hbmqtt
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcaiovictormc%2Fhbmqtt.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcaiovictormc%2Fhbmqtt?ref=badge_large)
